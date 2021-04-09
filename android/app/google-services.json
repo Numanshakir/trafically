@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1038150298777",
+    "firebase_url": "https://trafficly-app.firebaseio.com",
+    "project_id": "trafficly-app",
+    "storage_bucket": "trafficly-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038150298777:android:bacc344f1083da809e9c08",
+        "android_client_info": {
+          "package_name": "com.example.trafficlly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038150298777-gld3eag9bl3ap0rnoqi3fenis2jk6esm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.trafficlly",
+            "certificate_hash": "362675714e10f2bc0b6722b745efdff72ca88064"
+          }
+        },
+        {
+          "client_id": "1038150298777-v55cd8fa841c5er1pt0ejemuo5a19e6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWO84ZseE1PfT94XTl5SIfftKzBWou074"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038150298777-v55cd8fa841c5er1pt0ejemuo5a19e6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038150298777-44f78v3tq36gtiiq76971ethfcq7puad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abc.app"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1038150298777:android:fc1644fb88ac01449e9c08",
+        "android_client_info": {
+          "package_name": "com.pulsemediagroup.trafficly"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1038150298777-bkfcsp6bvrl0nh0gtp6its0krhdcos4h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulsemediagroup.trafficly",
+            "certificate_hash": "362675714e10f2bc0b6722b745efdff72ca88064"
+          }
+        },
+        {
+          "client_id": "1038150298777-9892fv5hi1qltjfefk9sum6gknhhghqj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pulsemediagroup.trafficly",
+            "certificate_hash": "d4cfa524cdbce6330337029bbb681d44f78703a3"
+          }
+        },
+        {
+          "client_id": "1038150298777-v55cd8fa841c5er1pt0ejemuo5a19e6j.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWO84ZseE1PfT94XTl5SIfftKzBWou074"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1038150298777-v55cd8fa841c5er1pt0ejemuo5a19e6j.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1038150298777-44f78v3tq36gtiiq76971ethfcq7puad.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.abc.app"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
